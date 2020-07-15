@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 
 🔭 I’m currently working on students information portal for a CNA school
+
 🌱 I’m currently learning data algorithms 
+
 👯 I’m looking to collaborate with UX designer in turning your concepts into real applications
+
 🤔 I’m looking for help with redux
+
 💬 Ask me about my travel adventures as a vegan .... 
