@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning data algorithms 
 
-👯 I’m looking to collaborate with UX designer in turning your concepts into real applications
+👯 I’m looking to collaborate with UX designer in turning their concepts into real applications
 
 🤔 I’m looking for help with redux
 
