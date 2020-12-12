@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning data structures and algorithms 
 
-👯 I’m looking to collaborate with UX designer in turning their concepts into real applications
+👯 I’m just out here building projects that help consummers do cool things. 
 
 💬 Ask me about my travel adventures as a vegan .... 
