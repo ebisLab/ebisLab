@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 
 👯 I’m just out here building projects that help consummers do cool things. 
 
+ Don't mind the empty green squares, I'm normally working on cleaning out a bug.
+
+✏ I'm always coding. ALWAYS!
+
 💬 Ask me about my travel adventures as a vegan .... 
