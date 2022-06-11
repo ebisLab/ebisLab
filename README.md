@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on students information portal for a CNA school
 
-🌱 I’m currently learning data structures and algorithms 
+🌱 I’m currently creating my art book as an NFT. Why not? 🤷‍♀️ 
 
 👯 I’m just out here building projects that help consummers do cool things. 
 
