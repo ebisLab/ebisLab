@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m currently working on students information portal for a CNA school
+🔭 I’m currently working on students information portal for a CNA school as a Saas Product
 
 🌱 I’m currently creating my art book as an NFT. Why not? 🤷‍♀️ 
 
